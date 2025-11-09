@@ -24,7 +24,7 @@ from accounts.forms import UserUpdateForm, UserProfileForm, ShippingAddressForm,
 
 
 # Create your views here.
-
+#This is the testing commit
 
 def login_page(request):
     # Get the next URL from the query parameter
